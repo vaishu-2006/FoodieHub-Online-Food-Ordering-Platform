@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8e9dc"/>
+      <stop offset="1" stop-color="#e9eee2"/>
+    </linearGradient>
+    <linearGradient id="bowl" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8794f"/>
+      <stop offset="1" stop-color="#c75d3e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="400" cy="295" r="172" fill="#fffaf4" opacity=".82"/>
+  <path d="M253 300c12 123 67 179 147 179s135-56 147-179H253Z" fill="url(#bowl)"/>
+  <ellipse cx="400" cy="300" rx="148" ry="39" fill="#f3d9bd"/>
+  <ellipse cx="400" cy="296" rx="123" ry="26" fill="#75885e"/>
+  <circle cx="351" cy="287" r="22" fill="#e9a34e"/>
+  <circle cx="418" cy="305" r="23" fill="#d76648"/>
+  <circle cx="453" cy="284" r="17" fill="#f0d7a1"/>
+  <path d="M361 279c-5-22 8-40 23-45M402 281c-2-26 12-42 28-48" fill="none" stroke="#79966b" stroke-linecap="round" stroke-width="8"/>
+  <path d="M371 205c-20-20-14-43 1-56m45 55c-20-24-11-45 5-59" fill="none" stroke="#fffaf4" stroke-linecap="round" stroke-width="8" opacity=".8"/>
+  <text x="400" y="535" fill="#7e776c" font-family="Arial,sans-serif" font-size="21" letter-spacing="3" text-anchor="middle">FRESHLY MADE</text>
+</svg>
